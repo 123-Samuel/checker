@@ -1,7 +1,7 @@
 function doPost(e) {
   /** @type telesun */
   const telesun = new Telesun.config({
-    telegram: "6950599698:AAHiSQQzDw2OlS7AuRX5SUL9qXssOCqcQoE",
+    telegram: "your-bot-token",
   });
 
   telesun
